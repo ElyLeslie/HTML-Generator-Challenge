@@ -2,5 +2,27 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^29.0.3"
-  }
+  },
+  "name": "html-generator-challenge",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElyLeslie/HTML-Generator-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElyLeslie/HTML-Generator-Challenge/issues"
+  },
+  "homepage": "https://github.com/ElyLeslie/HTML-Generator-Challenge#readme"
 }
